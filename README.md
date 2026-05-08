@@ -17,4 +17,5 @@ Welcome to the repository for the **Car Rental Service Platform**. This is a ful
 **
 
 ## 👨‍💻 Collaborators
-* **Anas Khan** * **Mohammad Jishan** ```
+* **Anas Khan**
+* **Mohammad Jishan**
